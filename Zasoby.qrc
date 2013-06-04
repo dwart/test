@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/connected.png</file>
+        <file>Icons/delete.png</file>
+        <file>Icons/draw.png</file>
+        <file>Icons/info.png</file>
+        <file>Icons/laser.png</file>
+        <file>Icons/left.png</file>
+        <file>Icons/line.png</file>
+        <file>Icons/load.gif</file>
+        <file>Icons/load2.gif</file>
+        <file>Icons/notconnected.png</file>
+        <file>Icons/point.png</file>
+        <file>Icons/polygon.png</file>
+        <file>Icons/refresh.png</file>
+        <file>Icons/right.png</file>
+        <file>Icons/start.png</file>
+        <file>Icons/stop.png</file>
+        <file>Icons/zeruj.png</file>
+        <file>Icons/scan.png</file>
+        <file>Icons/open.png</file>
+        <file>Icons/chmura.png</file>
+        <file>Icons/dopic.png</file>
+    </qresource>
+</RCC>
